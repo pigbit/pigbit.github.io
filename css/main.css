@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background:#000 url(https://desk-fd.zol-img.com.cn/t_s1600x900c5/g2/M00/04/07/Cg-4WVWI0dmIHPAqAAQrp3EUMYwAAF1mAJ0WDoABCu_811.jpg) no-repeat;
+    background-size: 100%;
+}
+
+span {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin: 30px 0px 30px 50px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 4px;
+    width: 240px;
+    text-align: center;
+}
+
+h4 {
+    color: #fff;
+    background-color: #00BFFF;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 80px;
+    margin-left: 10px;
+    margin-right: 4px;
+    padding: 6px 0px;
+    float: left;
+    text-align: center;
+}
+
+h4:hover {
+    color: #00BFFF;
+    background-color: #fff;
+    border: 1px solid #00BFFF;
+}
+
+a {
+    color: #fff;
+    background-color: #E667AF;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin: 2px 0px 2px 6px;;
+    padding: 4px 8px;
+    text-decoration: none;
+    float: left;
+}
+
+a:hover {
+    color: #E667AF;
+    background-color: #fff;
+    border: 1px solid #E667AF;
+}

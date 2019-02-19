@@ -1,0 +1,43 @@
+@media screen and (min-width: 240px) and (max-width: 960px) {
+    body {
+        background: #000 url(http://sjbz.fd.zol-img.com.cn/t_s1080x1920c/g5/M00/00/01/ChMkJ1fJUOeIJsVmAAL89NyciPIAAU9awOi9EkAAv0M881.jpg) no-repeat;
+        background-size: 100%;
+    }
+
+    span {
+        margin-left: 4px;
+    }
+
+    h1 {
+        margin: 20px 0px 30px 10px;
+        width: 240px;
+    }
+
+    h4 {
+        width: 180px;
+        color: #00BFFF;
+        background-color: #000;
+        border: 1px solid #00BFFF;
+    }
+
+    h4:hover {
+        color: #fff;
+        background-color: #00BFFF;
+        border: 1px solid #fff;
+    }
+
+    a {
+        width: 100px;
+        color: #E667AF;
+        background-color: #000;
+        border: 1px solid #E667AF;
+        text-align: center;
+        margin: 4px 0px 4px 8px;
+    }
+
+    a:hover {
+        color: #fff;
+        background-color: #E667AF;
+        border: 1px solid #fff;
+    }
+}
